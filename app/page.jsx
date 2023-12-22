@@ -28,17 +28,17 @@ export default function Home() {
       <div className='flex flex-col items-start gap-3 px-2 lg:px-10 mt-20'>
           <span className='italic font-serif text-lg lg:text-2xl mx-auto lg:mx-0'>What QuizForge Offers!</span>
           <div className='flex flex-col lg:flex-row items-start justify-between w-full gap-8 mt-4'>
-              <div className='border w-full lg:w-1/3 h-fit rounded-xl p-7'>
+              <div className='border border-gray-500 w-full lg:w-1/3 h-fit rounded-xl p-7'>
                   <h4 className='text-xl font-semibold'>Mind Bender Challenge</h4>
                   <p className='mt-2 text-sm lg:text-md font-thin text-gray-500'>Lorem ipsum dolor sit, harum nisi quia iste, adipisci debitis, veritatis placeat hic tempora dolores fugiat vel odio eum. Quae neque dignissimos quibusdam esse fugiat sint porro vero et. Dolorum! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempore molestias quisquam labore? Odio consequatur sint ea nemo optio. Asperiores.</p>
                   <Link href={'/'} className='rounded-full border flex items-center justify-center border-gray-500 w-full lg:w-1/3 h-12 hover:bg-white hover:text-black transition-all mt-10'>Explore</Link>
               </div>
-              <div className='border w-full lg:w-1/3 h-fit rounded-xl p-7'>
+              <div className='border border-gray-500 w-full lg:w-1/3 h-fit rounded-xl p-7'>
                   <h4 className='text-xl font-semibold'>Mind Bender Challenge</h4>
                   <p className='mt-2 text-sm lg:text-md font-thin text-gray-500'>Lorem ipsum dolor sit, harum nisi quia iste, adipisci debitis, veritatis placeat hic tempora dolores fugiat vel odio eum. Quae neque dignissimos quibusdam esse fugiat sint porro vero et. Dolorum! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempore molestias quisquam labore? Odio consequatur sint ea nemo optio. Asperiores.</p>
                   <Link href={'/'} className='rounded-full border flex items-center justify-center border-gray-500 w-full lg:w-1/3 h-12 hover:bg-white hover:text-black transition-all mt-10'>Explore</Link>
               </div>
-              <div className='border w-full lg:w-1/3 h-fit rounded-xl p-7'>
+              <div className='border border-gray-500 w-full lg:w-1/3 h-fit rounded-xl p-7'>
                   <h4 className='text-xl font-semibold'>Mind Bender Challenge</h4>
                   <p className='mt-2 text-sm lg:text-md font-thin text-gray-500'>Lorem ipsum dolor sit, harum nisi quia iste, adipisci debitis, veritatis placeat hic tempora dolores fugiat vel odio eum. Quae neque dignissimos quibusdam esse fugiat sint porro vero et. Dolorum! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex tempore molestias quisquam labore? Odio consequatur sint ea nemo optio. Asperiores.</p>
                   <Link href={'/'} className='rounded-full border flex items-center justify-center border-gray-500 w-full lg:w-1/3 h-12 hover:bg-white hover:text-black transition-all mt-10'>Explore</Link>
